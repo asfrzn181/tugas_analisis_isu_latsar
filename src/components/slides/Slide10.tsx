@@ -26,7 +26,7 @@ const phases = [
     title: "Sosialisasi Internal",
     description: "kepada Atasan Langsung",
     activities: [
-      "Presentasi konsep kepada supervisor",
+      "Presentasi konsep kepada Kepala Bidang",
       "Demo sistem yang telah dibuat",
       "Mendapat persetujuan implementasi",
       "Penyesuaian berdasarkan feedback"
@@ -38,7 +38,7 @@ const phases = [
   {
     icon: TestTube,
     phase: "Tahap 3",
-    duration: "Minggu 3-4",
+    duration: "Minggu 3",
     title: "Uji Coba Terbatas",
     description: "(Pilot Project) di Bidang Mutasi",
     activities: [
@@ -54,7 +54,7 @@ const phases = [
   {
     icon: BarChart,
     phase: "Tahap 4",
-    duration: "Bulan Berikutnya",
+    duration: "Minggu 4",
     title: "Evaluasi Hasil",
     description: "& Usulan Implementasi Penuh",
     activities: [
