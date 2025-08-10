@@ -202,7 +202,7 @@ const Slide10: React.FC = () => {
         >
           <div className="bg-gradient-to-r from-blue-600 to-purple-600 rounded-2xl p-8 max-w-4xl mx-auto shadow-2xl">
             <h3 className="text-2xl md:text-3xl font-bold text-white poppins mb-4">
-              Total Waktu Implementasi: 6-8 Minggu
+              Total Waktu Implementasi: 4 Minggu
             </h3>
             <p className="text-white text-lg inter opacity-90">
               Dengan pendekatan bertahap dan terukur, risiko kegagalan diminimalisir 
